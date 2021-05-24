@@ -1,2 +1,2 @@
 #SimpleJavaPrograms
-Basic java programs coded in simple steps !!
+Basic java programs coded in simple steps.
